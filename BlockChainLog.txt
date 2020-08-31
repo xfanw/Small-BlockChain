@@ -1,0 +1,307 @@
+Frank's Block Chain Log file Start.
+Process: 0 : Starting Trigger Server input thread using 5050
+Process: 0 : Starting Key Server input thread using 4710
+Process: 1 : Starting Trigger Server input thread using 5051
+Process: 1 : Starting Key Server input thread using 4711
+Process: 2 : Starting Trigger Server input thread using 5052
+Process: 2 : Starting Key Server input thread using 4712
+Process: 2 : 
+		--NEW BLOCKCHAIN--
+	Only Time Stamp and verification ID
+
+Process: 2 : 2017-09-01.10:26:35.0000 Verification ID:1
+Process: 2 : 2019-11-01.02:46:35.1001 Verification ID:1
+Process: 0 : 
+		--NEW BLOCKCHAIN--
+	Only Time Stamp and verification ID
+
+Process: 1 : 
+		--NEW BLOCKCHAIN--
+	Only Time Stamp and verification ID
+
+Process: 1 : 2017-09-01.10:26:35.0000 Verification ID:1
+Process: 1 : 2019-11-01.02:46:35.1001 Verification ID:1
+Process: 0 : 2017-09-01.10:26:35.0000 Verification ID:1
+Process: 0 : 2019-11-01.02:46:35.1001 Verification ID:1
+Process: 2 : 
+		--NEW BLOCKCHAIN--
+	Only Time Stamp and verification ID
+
+Process: 2 : 2017-09-01.10:26:35.0000 Verification ID:1
+Process: 2 : 2019-11-01.02:46:35.1001 Verification ID:1
+Process: 2 : 2019-11-01.02:46:35.1002 Verification ID:2
+Process: 0 : 
+		--NEW BLOCKCHAIN--
+	Only Time Stamp and verification ID
+
+Process: 1 : 
+		--NEW BLOCKCHAIN--
+	Only Time Stamp and verification ID
+
+Process: 0 : 2017-09-01.10:26:35.0000 Verification ID:1
+Process: 0 : 2019-11-01.02:46:35.1001 Verification ID:1
+Process: 0 : 2019-11-01.02:46:35.1002 Verification ID:2
+Process: 1 : 2017-09-01.10:26:35.0000 Verification ID:1
+Process: 1 : 2019-11-01.02:46:35.1001 Verification ID:1
+Process: 1 : 2019-11-01.02:46:35.1002 Verification ID:2
+Process: 2 : 
+		--NEW BLOCKCHAIN--
+	Only Time Stamp and verification ID
+
+Process: 2 : 2017-09-01.10:26:35.0000 Verification ID:1
+Process: 2 : 2019-11-01.02:46:35.1001 Verification ID:1
+Process: 2 : 2019-11-01.02:46:35.1002 Verification ID:2
+Process: 2 : 2019-11-01.02:46:35.1003 Verification ID:0
+Process: 1 : 
+		--NEW BLOCKCHAIN--
+	Only Time Stamp and verification ID
+
+Process: 0 : 
+		--NEW BLOCKCHAIN--
+	Only Time Stamp and verification ID
+
+Process: 1 : 2017-09-01.10:26:35.0000 Verification ID:1
+Process: 1 : 2019-11-01.02:46:35.1001 Verification ID:1
+Process: 0 : 2017-09-01.10:26:35.0000 Verification ID:1
+Process: 0 : 2019-11-01.02:46:35.1001 Verification ID:1
+Process: 1 : 2019-11-01.02:46:35.1002 Verification ID:2
+Process: 1 : 2019-11-01.02:46:35.1003 Verification ID:0
+Process: 0 : 2019-11-01.02:46:35.1002 Verification ID:2
+Process: 0 : 2019-11-01.02:46:35.1003 Verification ID:0
+Process: 2 : 
+		--NEW BLOCKCHAIN--
+	Only Time Stamp and verification ID
+
+Process: 2 : 2017-09-01.10:26:35.0000 Verification ID:1
+Process: 2 : 2019-11-01.02:46:35.1001 Verification ID:1
+Process: 2 : 2019-11-01.02:46:35.1002 Verification ID:2
+Process: 2 : 2019-11-01.02:46:35.1003 Verification ID:0
+Process: 2 : 2019-11-01.02:46:35.1004 Verification ID:1
+Process: 1 : 
+		--NEW BLOCKCHAIN--
+	Only Time Stamp and verification ID
+
+Process: 0 : 
+		--NEW BLOCKCHAIN--
+	Only Time Stamp and verification ID
+
+Process: 0 : 2017-09-01.10:26:35.0000 Verification ID:1
+Process: 1 : 2017-09-01.10:26:35.0000 Verification ID:1
+Process: 1 : 2019-11-01.02:46:35.1001 Verification ID:1
+Process: 0 : 2019-11-01.02:46:35.1001 Verification ID:1
+Process: 1 : 2019-11-01.02:46:35.1002 Verification ID:2
+Process: 0 : 2019-11-01.02:46:35.1002 Verification ID:2
+Process: 1 : 2019-11-01.02:46:35.1003 Verification ID:0
+Process: 0 : 2019-11-01.02:46:35.1003 Verification ID:0
+Process: 1 : 2019-11-01.02:46:35.1004 Verification ID:1
+Process: 0 : 2019-11-01.02:46:35.1004 Verification ID:1
+Process: 2 : 
+		--NEW BLOCKCHAIN--
+	Only Time Stamp and verification ID
+
+Process: 2 : 2017-09-01.10:26:35.0000 Verification ID:1
+Process: 2 : 2019-11-01.02:46:35.1001 Verification ID:1
+Process: 2 : 2019-11-01.02:46:35.1002 Verification ID:2
+Process: 2 : 2019-11-01.02:46:35.1003 Verification ID:0
+Process: 2 : 2019-11-01.02:46:35.1004 Verification ID:1
+Process: 2 : 2019-11-01.02:46:35.2001 Verification ID:2
+Process: 0 : 
+		--NEW BLOCKCHAIN--
+	Only Time Stamp and verification ID
+
+Process: 1 : 
+		--NEW BLOCKCHAIN--
+	Only Time Stamp and verification ID
+
+Process: 0 : 2017-09-01.10:26:35.0000 Verification ID:1
+Process: 1 : 2017-09-01.10:26:35.0000 Verification ID:1
+Process: 1 : 2019-11-01.02:46:35.1001 Verification ID:1
+Process: 0 : 2019-11-01.02:46:35.1001 Verification ID:1
+Process: 1 : 2019-11-01.02:46:35.1002 Verification ID:2
+Process: 0 : 2019-11-01.02:46:35.1002 Verification ID:2
+Process: 0 : 2019-11-01.02:46:35.1003 Verification ID:0
+Process: 1 : 2019-11-01.02:46:35.1003 Verification ID:0
+Process: 1 : 2019-11-01.02:46:35.1004 Verification ID:1
+Process: 0 : 2019-11-01.02:46:35.1004 Verification ID:1
+Process: 0 : 2019-11-01.02:46:35.2001 Verification ID:2
+Process: 1 : 2019-11-01.02:46:35.2001 Verification ID:2
+Process: 1 : 
+		--NEW BLOCKCHAIN--
+	Only Time Stamp and verification ID
+
+Process: 2 : 
+		--NEW BLOCKCHAIN--
+	Only Time Stamp and verification ID
+
+Process: 0 : 
+		--NEW BLOCKCHAIN--
+	Only Time Stamp and verification ID
+
+Process: 1 : 2017-09-01.10:26:35.0000 Verification ID:1
+Process: 1 : 2019-11-01.02:46:35.1001 Verification ID:1
+Process: 1 : 2019-11-01.02:46:35.1002 Verification ID:2
+Process: 1 : 2019-11-01.02:46:35.1003 Verification ID:0
+Process: 1 : 2019-11-01.02:46:35.1004 Verification ID:1
+Process: 1 : 2019-11-01.02:46:35.2001 Verification ID:2
+Process: 1 : 2019-11-01.02:46:35.2002 Verification ID:0
+Process: 0 : 2017-09-01.10:26:35.0000 Verification ID:1
+Process: 0 : 2019-11-01.02:46:35.1001 Verification ID:1
+Process: 0 : 2019-11-01.02:46:35.1002 Verification ID:2
+Process: 0 : 2019-11-01.02:46:35.1003 Verification ID:0
+Process: 0 : 2019-11-01.02:46:35.1004 Verification ID:1
+Process: 2 : 2017-09-01.10:26:35.0000 Verification ID:1
+Process: 2 : 2019-11-01.02:46:35.1001 Verification ID:1
+Process: 0 : 2019-11-01.02:46:35.2001 Verification ID:2
+Process: 0 : 2019-11-01.02:46:35.2002 Verification ID:0
+Process: 2 : 2019-11-01.02:46:35.1002 Verification ID:2
+Process: 2 : 2019-11-01.02:46:35.1003 Verification ID:0
+Process: 2 : 2019-11-01.02:46:35.1004 Verification ID:1
+Process: 2 : 2019-11-01.02:46:35.2001 Verification ID:2
+Process: 2 : 2019-11-01.02:46:35.2002 Verification ID:0
+Process: 1 : 
+		--NEW BLOCKCHAIN--
+	Only Time Stamp and verification ID
+
+Process: 0 : 
+		--NEW BLOCKCHAIN--
+	Only Time Stamp and verification ID
+
+Process: 1 : 2017-09-01.10:26:35.0000 Verification ID:1
+Process: 2 : 
+		--NEW BLOCKCHAIN--
+	Only Time Stamp and verification ID
+
+Process: 1 : 2019-11-01.02:46:35.1001 Verification ID:1
+Process: 1 : 2019-11-01.02:46:35.1002 Verification ID:2
+Process: 0 : 2017-09-01.10:26:35.0000 Verification ID:1
+Process: 0 : 2019-11-01.02:46:35.1001 Verification ID:1
+Process: 1 : 2019-11-01.02:46:35.1003 Verification ID:0
+Process: 0 : 2019-11-01.02:46:35.1002 Verification ID:2
+Process: 1 : 2019-11-01.02:46:35.1004 Verification ID:1
+Process: 0 : 2019-11-01.02:46:35.1003 Verification ID:0
+Process: 1 : 2019-11-01.02:46:35.2001 Verification ID:2
+Process: 2 : 2017-09-01.10:26:35.0000 Verification ID:1
+Process: 2 : 2019-11-01.02:46:35.1001 Verification ID:1
+Process: 0 : 2019-11-01.02:46:35.1004 Verification ID:1
+Process: 1 : 2019-11-01.02:46:35.2002 Verification ID:0
+Process: 1 : 2019-11-01.02:46:35.2003 Verification ID:1
+Process: 2 : 2019-11-01.02:46:35.1002 Verification ID:2
+Process: 0 : 2019-11-01.02:46:35.2001 Verification ID:2
+Process: 2 : 2019-11-01.02:46:35.1003 Verification ID:0
+Process: 0 : 2019-11-01.02:46:35.2002 Verification ID:0
+Process: 2 : 2019-11-01.02:46:35.1004 Verification ID:1
+Process: 0 : 2019-11-01.02:46:35.2003 Verification ID:1
+Process: 2 : 2019-11-01.02:46:35.2001 Verification ID:2
+Process: 2 : 2019-11-01.02:46:35.2002 Verification ID:0
+Process: 2 : 2019-11-01.02:46:35.2003 Verification ID:1
+Process: 1 : 
+		--NEW BLOCKCHAIN--
+	Only Time Stamp and verification ID
+
+Process: 1 : 2017-09-01.10:26:35.0000 Verification ID:1
+Process: 1 : 2019-11-01.02:46:35.1001 Verification ID:1
+Process: 1 : 2019-11-01.02:46:35.1002 Verification ID:2
+Process: 1 : 2019-11-01.02:46:35.1003 Verification ID:0
+Process: 0 : 
+		--NEW BLOCKCHAIN--
+	Only Time Stamp and verification ID
+
+Process: 1 : 2019-11-01.02:46:35.1004 Verification ID:1
+Process: 1 : 2019-11-01.02:46:35.2001 Verification ID:2
+Process: 2 : 
+		--NEW BLOCKCHAIN--
+	Only Time Stamp and verification ID
+
+Process: 1 : 2019-11-01.02:46:35.2002 Verification ID:0
+Process: 1 : 2019-11-01.02:46:35.2003 Verification ID:1
+Process: 1 : 2019-11-01.02:46:35.2004 Verification ID:2
+Process: 0 : 2017-09-01.10:26:35.0000 Verification ID:1
+Process: 0 : 2019-11-01.02:46:35.1001 Verification ID:1
+Process: 2 : 2017-09-01.10:26:35.0000 Verification ID:1
+Process: 2 : 2019-11-01.02:46:35.1001 Verification ID:1
+Process: 0 : 2019-11-01.02:46:35.1002 Verification ID:2
+Process: 0 : 2019-11-01.02:46:35.1003 Verification ID:0
+Process: 2 : 2019-11-01.02:46:35.1002 Verification ID:2
+Process: 2 : 2019-11-01.02:46:35.1003 Verification ID:0
+Process: 0 : 2019-11-01.02:46:35.1004 Verification ID:1
+Process: 0 : 2019-11-01.02:46:35.2001 Verification ID:2
+Process: 2 : 2019-11-01.02:46:35.1004 Verification ID:1
+Process: 2 : 2019-11-01.02:46:35.2001 Verification ID:2
+Process: 0 : 2019-11-01.02:46:35.2002 Verification ID:0
+Process: 2 : 2019-11-01.02:46:35.2002 Verification ID:0
+Process: 0 : 2019-11-01.02:46:35.2003 Verification ID:1
+Process: 0 : 2019-11-01.02:46:35.2004 Verification ID:2
+Process: 2 : 2019-11-01.02:46:35.2003 Verification ID:1
+Process: 2 : 2019-11-01.02:46:35.2004 Verification ID:2
+Process: 2 : 
+		--NEW BLOCKCHAIN--
+	Only Time Stamp and verification ID
+
+Process: 0 : 
+		--NEW BLOCKCHAIN--
+	Only Time Stamp and verification ID
+
+Process: 1 : 
+		--NEW BLOCKCHAIN--
+	Only Time Stamp and verification ID
+
+Process: 2 : 2017-09-01.10:26:35.0000 Verification ID:1
+Process: 2 : 2019-11-01.02:46:35.1001 Verification ID:1
+Process: 2 : 2019-11-01.02:46:35.1002 Verification ID:2
+Process: 2 : 2019-11-01.02:46:35.1003 Verification ID:0
+Process: 0 : 2017-09-01.10:26:35.0000 Verification ID:1
+Process: 0 : 2019-11-01.02:46:35.1001 Verification ID:1
+Process: 2 : 2019-11-01.02:46:35.1004 Verification ID:1
+Process: 1 : 2017-09-01.10:26:35.0000 Verification ID:1
+Process: 0 : 2019-11-01.02:46:35.1002 Verification ID:2
+Process: 1 : 2019-11-01.02:46:35.1001 Verification ID:1
+Process: 2 : 2019-11-01.02:46:35.2001 Verification ID:2
+Process: 0 : 2019-11-01.02:46:35.1003 Verification ID:0
+Process: 2 : 2019-11-01.02:46:35.2002 Verification ID:0
+Process: 1 : 2019-11-01.02:46:35.1002 Verification ID:2
+Process: 0 : 2019-11-01.02:46:35.1004 Verification ID:1
+Process: 1 : 2019-11-01.02:46:35.1003 Verification ID:0
+Process: 2 : 2019-11-01.02:46:35.2003 Verification ID:1
+Process: 1 : 2019-11-01.02:46:35.1004 Verification ID:1
+Process: 2 : 2019-11-01.02:46:35.2004 Verification ID:2
+Process: 0 : 2019-11-01.02:46:35.2001 Verification ID:2
+Process: 0 : 2019-11-01.02:46:35.2002 Verification ID:0
+Process: 1 : 2019-11-01.02:46:35.2001 Verification ID:2
+Process: 2 : 2019-11-01.02:46:35.3001 Verification ID:0
+Process: 0 : 2019-11-01.02:46:35.2003 Verification ID:1
+Process: 1 : 2019-11-01.02:46:35.2002 Verification ID:0
+Process: 1 : 2019-11-01.02:46:35.2003 Verification ID:1
+Process: 0 : 2019-11-01.02:46:35.2004 Verification ID:2
+Process: 0 : 2019-11-01.02:46:35.3001 Verification ID:0
+Process: 1 : 2019-11-01.02:46:35.2004 Verification ID:2
+Process: 1 : 2019-11-01.02:46:35.3001 Verification ID:0
+Process: 0 : 
+		--NEW BLOCKCHAIN--
+	Only Time Stamp and verification ID
+
+Process: 1 : 
+		--NEW BLOCKCHAIN--
+	Only Time Stamp and verification ID
+
+Process: 0 : 2017-09-01.10:26:35.0000 Verification ID:1
+Process: 1 : 2017-09-01.10:26:35.0000 Verification ID:1
+Process: 1 : 2019-11-01.02:46:35.1001 Verification ID:1
+Process: 0 : 2019-11-01.02:46:35.1001 Verification ID:1
+Process: 0 : 2019-11-01.02:46:35.1002 Verification ID:2
+Process: 1 : 2019-11-01.02:46:35.1002 Verification ID:2
+Process: 1 : 2019-11-01.02:46:35.1003 Verification ID:0
+Process: 0 : 2019-11-01.02:46:35.1003 Verification ID:0
+Process: 1 : 2019-11-01.02:46:35.1004 Verification ID:1
+Process: 0 : 2019-11-01.02:46:35.1004 Verification ID:1
+Process: 0 : 2019-11-01.02:46:35.2001 Verification ID:2
+Process: 1 : 2019-11-01.02:46:35.2001 Verification ID:2
+Process: 1 : 2019-11-01.02:46:35.2002 Verification ID:0
+Process: 0 : 2019-11-01.02:46:35.2002 Verification ID:0
+Process: 0 : 2019-11-01.02:46:35.2003 Verification ID:1
+Process: 1 : 2019-11-01.02:46:35.2003 Verification ID:1
+Process: 0 : 2019-11-01.02:46:35.2004 Verification ID:2
+Process: 1 : 2019-11-01.02:46:35.2004 Verification ID:2
+Process: 1 : 2019-11-01.02:46:35.3001 Verification ID:0
+Process: 0 : 2019-11-01.02:46:35.3001 Verification ID:0
+Process: 0 : 2019-11-01.02:46:35.3002 Verification ID:1
+Process: 1 : 2019-11-01.02:46:35.3002 Verification ID:1
